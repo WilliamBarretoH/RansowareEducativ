@@ -1,2 +1,2 @@
 # RansowareEducativ
-Ransoware educativ in python3
+Simple and powerful ransoware in python3
